@@ -3,6 +3,8 @@
 MovieHamster is a React + Vite powered web app that lets users explore movies easily.  
 It features a **Top 5 Trending Movies** section and a **debounced search** to fetch movies efficiently without spamming API calls.
 
+👉 **[Live Demo](https://your-demo-link.com)**
+
 ---
 
 ## 🚀 Features
